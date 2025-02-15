@@ -1,3 +1,5 @@
 tweepy
 python-dotenv
 groq
+starlette
+uvicorn
